@@ -1,9 +1,6 @@
 package com.tech.blog.entities;
 
-/**
- * @author Arijit
- *
- */
+
 public class Post {
 
     private int pid;
