@@ -15,10 +15,7 @@ import com.tech.blog.entities.User;
 import com.tech.blog.helper.ConnectionProvider;
 
 
-/**
- * @author Arijit
- *
- */
+ 
 public class AddPostServlet extends HttpServlet {
 
     /**
