@@ -2,10 +2,7 @@ package com.tech.blog.helper;
 
 import java.sql.*;
 
-/**
- * @author Arijit
- *
- */
+
 public class ConnectionProvider {
 
 	private static Connection con;
