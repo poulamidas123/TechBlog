@@ -2,10 +2,6 @@ package com.tech.blog.dao;
 
 import java.sql.*;
 
-/**
- * @author Arijit
- *
- */
 public class LikeDao {
 
     Connection con;
