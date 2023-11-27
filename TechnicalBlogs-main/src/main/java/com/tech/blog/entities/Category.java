@@ -1,10 +1,7 @@
 
 package com.tech.blog.entities;
 
-/**
- * @author Arijit
- *
- */
+
 public class Category {
     private int cid;
     private String name;
