@@ -8,10 +8,7 @@ package com.tech.blog.dao;
 import com.tech.blog.entities.User;
 import java.sql.*;
 
-/**
- * @author Arijit
- *
- */
+
 public class UserDao {
 
     private Connection con;
