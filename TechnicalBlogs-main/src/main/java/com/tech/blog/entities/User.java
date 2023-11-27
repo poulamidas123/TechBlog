@@ -2,10 +2,7 @@ package com.tech.blog.entities;
 
 import java.sql.*;
 
-/**
- * @author Arijit
- *
- */
+
 public class User {
 
     private int id;
