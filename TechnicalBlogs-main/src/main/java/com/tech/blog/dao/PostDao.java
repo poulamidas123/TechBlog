@@ -15,10 +15,7 @@ import java.util.List;
 import com.tech.blog.entities.Category;
 import com.tech.blog.entities.Post;
 
-/**
- * @author Arijit
- *
- */
+
 public class PostDao {
 
     Connection con;
