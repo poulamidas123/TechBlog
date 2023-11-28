@@ -38,7 +38,7 @@ public class RegisterServlet extends HttpServlet {
             if (check == null) {
                 out.println("box not checked");
             } else {
-                //baki ka data yaha nikalna..
+                
                 String name = request.getParameter("user_name");
                 String email = request.getParameter("user_email");
                 String password = request.getParameter("user_password");
